@@ -7,6 +7,7 @@ Função: Criar fluxogramas e pseudocódigos de tarefas do dia a dia, entre elas
 Objetivo 🎯: Iniciar e compreender os conceitos de LOPAL, aprender as diferenças e como trabalhar com algoritmos do fluxograma e preparar a base para aprender codificação e linguaguem natural.
 
 Ferramentas: Foi utilizado apenas o Word.
+
 Autora : Maria Eduarda Vieira
 
 Horário do trabalho: 13:30h até as 16:30h
