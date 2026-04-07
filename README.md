@@ -14,4 +14,4 @@ Horário do trabalho: 13:30h até as 16:30h
 
 Data: 06/04/2026
 
-Como me ajudou: Consegui ter uma visão mais ampliada sobre programação, significado de variáveis, lógica, e linguaguem de programação. Aprendi sobre os estados da programação e o conceito do termo "indentação". No geral, a aula e a proposta da atividade foram bem produtivas.  
+Como me ajudou: Consegui ter uma visão mais ampliada sobre programação, significado de variáveis, lógica, e linguaguem de programação. Aprendi sobre os estados da programação e o conceito do termo técnico "indentação". No geral, a aula e a proposta da atividade foram bem produtivas.  
